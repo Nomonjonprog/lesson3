@@ -1,0 +1,49 @@
+.nav{
+    background-color: black;
+    text-align: center;
+    font-size: 25px;
+    height: 80px;
+    word-spacing: 15px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    line-height: 80px;
+}
+.html button{
+    background-color: rgba(30, 164, 30, 0.922);
+    height: 40px;
+    width: 80px;
+    color: white;
+    font-size: 18px;
+}
+.html h1{
+    font-size: 39px;
+}
+.soz{
+    background-color: rgb(149, 166, 182);
+
+}
+.soz p{
+    color:black;
+    line-height: 50px;
+    font-size: 20px;
+}
+.soz button{
+    background-color: rgb(7, 186, 126);
+    height: 40px;
+    font-size: 20px;
+    color: white;
+}
+.img h2{
+    font-size: 25px;
+}
+.exam{
+    line-height: 30px;
+}
+.exam button{
+    background-color: rgb(7, 186, 126);
+        height: 50px;
+        font-size: 20px;
+        color: white;
+}
